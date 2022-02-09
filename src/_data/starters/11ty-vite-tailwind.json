@@ -1,0 +1,7 @@
+{
+	"url": "https://github.com/hszhai/vue-vite-11ty-tailwind-emily",
+	"name": "Eleventy with Vite: add Vue dynamic components to 11ty-plugin-vue",
+	"description": "Vue as template language for 11ty, plus Vite dynamic components",
+	"author": "hszhai @reddotblues",
+	"demo": "https://stackblitz.com/github/hszhai/vue-vite-11ty-tailwind-emily"
+}
